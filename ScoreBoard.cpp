@@ -1,3 +1,4 @@
+// THIS IS THE CHANGE MADE BY PAUL
 #include "ScoreBoard.h"
 
 Scoreboard::Scoreboard() : totalScore(0) {}
