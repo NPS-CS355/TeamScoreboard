@@ -1,7 +1,7 @@
 #include "ScoreBoard.h"
 
 Scoreboard::Scoreboard() : totalScore(0) {}
-
+//MAKING CHANGES FOR REPOSITORY
 void Scoreboard::addScore(const char* teamMember, int score)
 // Implement adding score
 {
