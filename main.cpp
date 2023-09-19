@@ -2,6 +2,7 @@
 #include "ScoreBoard.h"
 
 // Changes made by paul in step 10
+// Changes made by Sarah in step 11
 
 int main()
 {
