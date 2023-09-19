@@ -1,6 +1,8 @@
 #include <iostream>
 #include "ScoreBoard.h"
 
+// Changes made by paul in step 10
+
 int main()
 {
 	ScoreBoard scoreboard;
